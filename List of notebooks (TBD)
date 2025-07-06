@@ -1,0 +1,6 @@
+Supernovae analysis sample - spectral analysis, lots of plots, some missing data
+GW wave analysis example using MCMC
+gw_analysis.ipynb - Bayesian inference, mostly complete example
+galaxy_evolution.ipynb - numerical modeling, fragmented
+
+Some of these notebooks are LLM-assisted recreations from fragmented local code copies. The complete codebases are saved in the university database and are no longer accessible post-graduation. 
