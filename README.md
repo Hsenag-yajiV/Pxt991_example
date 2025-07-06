@@ -1,7 +1,5 @@
 # Uni thesis reconstruction
 
-# Scientific Data Analysis Portfolio
-
 This repository showcases analytical methodologies and Python implementations developed during my MSc Astrophysics research at Cardiff University.
 
 ## Projects Overview
